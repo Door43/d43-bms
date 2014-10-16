@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bms:home|Door43 (bms)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bms|d43-bms repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bms/archive/master.zip|d43-bms.zip]]
+
+**Recent Changes**
+{{changes>ns = bms}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bms|Ethnologue data]]
+
